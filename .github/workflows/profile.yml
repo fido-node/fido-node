@@ -25,22 +25,32 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-
           # Options
           user: fido-node
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: large
+          config_octicon: yes
           config_timezone: UTC
+          config_twemoji: yes
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
           plugin_calendar: yes
-          plugin_calendar_limit: 1
+          plugin_calendar_limit: 2
           plugin_habits: yes
           plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
+          plugin_habits_charts_type: graph
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 2000
-          plugin_habits_languages_limit: 8
+          plugin_habits_languages_limit: 10
           plugin_habits_languages_threshold: 0%
+          plugin_introduction: yes
+          plugin_introduction_title: yes
           plugin_stars: yes
           plugin_stars_limit: 10
           plugin_wakatime: yes
@@ -51,3 +61,4 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakapi.dokutsu.xyz
           plugin_wakatime_user: fido_node
+          repositories_forks: yes
