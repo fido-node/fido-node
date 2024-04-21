@@ -1050,7 +1050,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eshaham/israeli-bank-scrapers</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Provide scrapers for all major Israeli banks and credit card companies</div>
@@ -1103,7 +1103,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linkwarden/linkwarden</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1851,12 +1851,12 @@
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">SuperCollider</span>
+                                <span class="name">Scala Worksheet</span>
                                 <div class="bar" style="width: 0.008%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Scala Worksheet</span>
+                                <span class="name">SuperCollider</span>
                                 <div class="bar" style="width: 0.008%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
@@ -1876,12 +1876,12 @@
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">GitIgnore file</span>
+                                <span class="name">JavaScript</span>
                                 <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">JavaScript</span>
+                                <span class="name">GitIgnore file</span>
                                 <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
@@ -1891,7 +1891,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Apr 2024, 02:19:16 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Apr 2024, 03:01:32 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
