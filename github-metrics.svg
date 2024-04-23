@@ -1848,12 +1848,12 @@
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">SuperCollider</span>
+                                <span class="name">Scala Worksheet</span>
                                 <div class="bar" style="width: 0.008%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Scala Worksheet</span>
+                                <span class="name">SuperCollider</span>
                                 <div class="bar" style="width: 0.008%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
@@ -1873,12 +1873,12 @@
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">JavaScript</span>
+                                <span class="name">GitIgnore file</span>
                                 <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">GitIgnore file</span>
+                                <span class="name">JavaScript</span>
                                 <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
@@ -1888,7 +1888,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Apr 2024, 21:01:22 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Apr 2024, 22:01:47 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
