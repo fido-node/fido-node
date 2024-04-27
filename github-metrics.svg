@@ -1058,7 +1058,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>knadh/listmonk</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.</div>
@@ -1111,7 +1111,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HabitRPG/habitica</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A habit tracker app which treats your goals like a Role Playing Game.</div>
@@ -1164,7 +1164,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grocy/grocy</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ERP beyond your fridge - Grocy is a web-based self-hosted groceries &amp; household management solution for your home</div>
@@ -1217,7 +1217,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>caronc/apprise</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apprise - Push Notifications that work with just about every platform!</div>
@@ -1840,12 +1840,12 @@
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Scala Worksheet</span>
+                                <span class="name">SuperCollider</span>
                                 <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">SuperCollider</span>
+                                <span class="name">Scala Worksheet</span>
                                 <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
@@ -1870,12 +1870,12 @@
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">GitIgnore file</span>
+                                <span class="name">Properties</span>
                                 <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Properties</span>
+                                <span class="name">GitIgnore file</span>
                                 <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
@@ -1885,7 +1885,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Apr 2024, 06:01:25 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Apr 2024, 07:01:29 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
