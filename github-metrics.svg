@@ -1062,7 +1062,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>calcom/cal.com</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scheduling infrastructure for absolutely everyone.</div>
@@ -1115,7 +1115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Cicada-Software/cicada</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A FOSS, cross-platform version of GitHub Actions and Gitlab CI</div>
@@ -1882,7 +1882,7 @@
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Properties</span>
+                                <span class="name">GitIgnore file</span>
                                 <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
@@ -1892,7 +1892,7 @@
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">GitIgnore file</span>
+                                <span class="name">Properties</span>
                                 <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
@@ -1902,7 +1902,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Apr 2024, 00:27:26 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Apr 2024, 01:43:41 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
